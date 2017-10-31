@@ -1,0 +1,5 @@
+name: tensorflow2
+channels:
+- defaults
+prefix: /Users/msenel/Documents/WORK/anaconda/envs/tensorflow2
+
